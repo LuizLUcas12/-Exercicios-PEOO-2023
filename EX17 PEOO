@@ -1,0 +1,3 @@
+n1 = int(input("digite um numero: "))
+n = n1**2
+print(n)
