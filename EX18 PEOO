@@ -1,0 +1,6 @@
+n1 = int(input("soma de um numero: "))
+n2 = int(input("subtracao de um numero: "))
+n3 = int(input("multiplicacao de um numero: "))
+n4 = int(input("divisao de um numero: "))
+n = n1 + n1,  n2 - n2, n3 * n3, n4 / n4
+print(n)
