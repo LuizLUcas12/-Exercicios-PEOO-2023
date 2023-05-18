@@ -1,0 +1,5 @@
+n = int(input("numero:"))
+x = n - 1
+z = n + 1
+print("o antecessor", z)
+print("o sucessor e", x)
