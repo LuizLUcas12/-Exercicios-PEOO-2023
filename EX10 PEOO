@@ -1,0 +1,2 @@
+nome = input("digite seu nome e seu sexo:")
+print(nome)
