@@ -1,0 +1,4 @@
+faces = 6
+aresta = 12 + 2 
+vertice = aresta - faces
+print(vertice)
