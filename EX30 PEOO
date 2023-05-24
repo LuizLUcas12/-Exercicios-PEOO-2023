@@ -1,0 +1,4 @@
+nascimento = int(input("Digite o ano de nascimento: "))
+resultado = 2023 - nascimento 
+idade = 2050 - nascimento
+print(resultado, idade)
