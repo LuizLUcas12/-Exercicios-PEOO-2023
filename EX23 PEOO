@@ -1,0 +1,4 @@
+a = int(input("digite um numero de aresta:"))
+f = int(input("digite o numero de faces:"))
+v =  (a + 2) - f 
+print(v)
